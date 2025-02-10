@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prajakta Kolhe</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/e9ad8d4e-64b0-409d-87b2-53a03df9540f.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/e9ad8d4e-64b0-409d-87b2-53a03df9540f">
 
 - 🌱 I’m currently learning **Python, Django, Flask**
 
