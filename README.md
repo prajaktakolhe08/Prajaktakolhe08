@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prajakta Kolhe</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="[![image](https://github.com/user-attachments/assets/2e9b2eeb-7af9-4054-aedb-a818c95903ea)
-"](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0jATjt6c9gYF3kgqiDLCkj&ust=1739265446284000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDG--ziuIsDFQAAAAAdAAAAABAo)>
+
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/0ca45ba2-4471-468e-970c-c52474709f92)
+">
 
 - 🌱 I’m currently learning **Python, Django, Flask**
 
