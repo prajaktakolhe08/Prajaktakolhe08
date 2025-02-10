@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Prajakta Kolhe</h1>
 <h3 align="center">A passionate python full-stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajaktakolhe08&label=Profile%20views&color=0e75b6&style=flat" alt="prajaktakolhe08" /> </p>
 
-- 🌱 I’m currently learning **data analysis**
-
-- 👯 I’m looking to collaborate on **open source Python, Flask, or Django projects**
-
-- 🤝 I’m looking for help with **advanced Flask/Django development**
+B.Tech graduate in Computer Technology with hands-on experience in Python, Django, and Flask. I enjoy developing web applications using Python frameworks and leveraging MySQL databases to build efficient, scalable solutions
 
 - 👨‍💻 All of my projects are available at [github.com/prajaktakolhe08](github.com/prajaktakolhe08)
 
-- 💬 Ask me about **Python, Flask, Django, and backend development.**
-
 - 📫 How to reach me **prajaktakolhe.08@gmail.com**
+
+- 🌱 I’m currently learning **data analysis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
