@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<img align="right" alt="coding" width="400" scr="https://github.com/user-attachments/assets/57b2be78-b1ff-4e35-b5a6-152c23692ca3">
+<img align="left" alt="code" width="400" scr="https://github.com/user-attachments/assets/57b2be78-b1ff-4e35-b5a6-152c23692ca3">
 
 - 🌱 I’m currently learning **Python, Django, Flask**
 
