@@ -5,7 +5,7 @@
 
 B.Tech graduate in Computer Technology with hands-on experience in Python, Django, and Flask. I enjoy developing web applications using Python frameworks and leveraging MySQL databases to build efficient, scalable solutions
 
-- 👨‍💻 All of my projects are available at [github.com/prajaktakolhe08](github.com/prajaktakolhe08)
+- 👨‍💻 All of my projects are available at [github.com/prajaktakolhe08](https://github.com/prajaktakolhe08?tab=repositories)
 
 - 📫 How to reach me **prajaktakolhe.08@gmail.com**
 
