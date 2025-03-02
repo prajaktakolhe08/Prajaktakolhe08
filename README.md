@@ -9,8 +9,6 @@ B.Tech graduate in Computer Technology with hands-on experience in Python, Djang
 
 - 📫 How to reach me **prajaktakolhe.08@gmail.com**
 
-- 🌱 I’m currently learning **data analysis**
-
 ---
 
 ### 🛠️ Tech Stack
